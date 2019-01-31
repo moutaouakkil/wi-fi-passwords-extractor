@@ -1,4 +1,4 @@
-# WiFi Passwords Extractor
+# Wi-Fi's Passwords Extractor
 
 Copyright 2019 Wi-Fi's Passwords Extractor
 
