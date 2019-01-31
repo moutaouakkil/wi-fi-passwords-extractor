@@ -19,5 +19,5 @@ The Wi-Fi's Passwords Extractor is an open-source penetration testing script des
 # Installation
 *Windows*
 ```bash
-$ Double click on the script
+Double click on the script
 ```
