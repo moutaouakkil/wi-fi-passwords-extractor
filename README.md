@@ -14,6 +14,10 @@ The Wi-Fi's Passwords Extractor is an open-source penetration testing script des
 * Windows
 
 
+# Requirements
+install the latest version of [Python 3](https://www.python.org/downloads/)
+
+
 # Installation
 *Windows*
 ```bash
