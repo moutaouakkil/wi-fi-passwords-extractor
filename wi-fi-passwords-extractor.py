@@ -1,8 +1,7 @@
 #!/bin/python
 # Wi-Fi's Password Extractor
 # Version v1
-# Coded by: Othmane Moutaouakkil [ WHOAMI2507 ]  (You don't become a coder by just changing the credits)
-# Github: https://github.com/whoami2507
+# Coded by: Othmane Moutaouakkil [ moutaouakkil ]
 
 
 import subprocess
@@ -14,7 +13,7 @@ print('''
    \ V  V / |  __/| |___ 
     \_/\_/  |_|   |_____|
 
- Written by: WHOAMI2507
+ Written by: moutaouakkil
 ''' + '\n'*2)
 
 
